@@ -1,10 +1,17 @@
-- 👋 Hi, I’m Daniel
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## **Languages:**  
 
-<!---
-sal-rosa/sal-rosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+
+
+## **GitHub Statistics**
+
+<a href="https://github.com/sal-rosa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salrosa&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/JoannaNeves">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=sal-rosa&show_icons=true&theme=dracula&line_height=27" alt="SalRosa github stats"/>
+</a>
