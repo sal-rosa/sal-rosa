@@ -12,9 +12,9 @@
 ## **GitHub Statistics**
 
 <a href="https://github.com/sal-rosa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sal-rosa&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sal-rosa&theme=monakai&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/JoannaNeves">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=sal-rosa&show_icons=true&theme=dracula&line_height=27" alt="SalRosa github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=sal-rosa&show_icons=true&theme=monakai&line_height=27" alt="SalRosa github stats"/>
 </a>
