@@ -14,7 +14,7 @@
 <a href="https://github.com/sal-rosa">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sal-rosa&theme=discord_old_blurple&hide_langs_below=1" />
 </a>
-
+</br>
 <a href="https://github.com/JoannaNeves">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sal-rosa&show_icons=true&theme=discord_old_blurple&line_height=27" alt="SalRosa github stats"/>
 </a>
